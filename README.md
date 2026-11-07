@@ -17,6 +17,11 @@
 <a href="https://learn.microsoft.com/api/credentials/share/ja-jp/HitoshiMiyauchi-5648/EF57B0F25915A9A1?sharingId=1F72AE1354DB82BB"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure AI Fundamentals" title="Azure AI Fundamentals（AI-900）" width="80"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/ja-jp/HitoshiMiyauchi-5648/6CF4F2ED2B49FA92?sharingId=1F72AE1354DB82BB"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Data Fundamentals" title="Azure Data Fundamentals（DP-900）" width="80"></a>
 
+#### Kaggle バッジ
+
+[![Python Coder](https://img.shields.io/badge/Kaggle-Python%20Coder-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/miyauchihitoshi)
+[![Getting Started Competitor](https://img.shields.io/badge/Kaggle-Getting%20Started%20Competitor-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/miyauchihitoshi)
+
 #### 主なリポジトリ
 | リポジトリ | 内容 |
 |---|---|

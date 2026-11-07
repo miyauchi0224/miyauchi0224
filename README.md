@@ -8,6 +8,15 @@
 - **データベース・クラウド**：PostgreSQL（PostGIS）、Azure、Docker
 - **モバイル**：Swift（SwiftUI）、Android
 
+#### 資格バッジ
+<a href="https://www.credly.com/badges/b34802c5-2a44-4913-bfdb-90e43dea311a"><img src="https://images.credly.com/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="PCAP" title="PCAP" width="80"></a>
+<a href="https://www.credly.com/badges/66b0798c-69a4-42bb-92b7-1139bc7ba5c0"><img src="https://images.credly.com/images/150e2572-643b-4834-ac93-03e2e67ff2c0/blob" alt="LPIC-3 Security" title="LPIC-3 Security" width="80"></a>
+<a href="https://www.credly.com/badges/c005770d-11fa-48b6-a7c4-19b615786ed0"><img src="https://images.credly.com/images/f4f1d8bf-e7d3-4b2a-9c0b-2d124ff701c3/blob" alt="LPIC-2" title="LPIC-2" width="80"></a>
+<a href="https://www.credly.com/badges/238e1ad5-3668-4087-82ba-c3b91a257e60"><img src="https://images.credly.com/images/b4b619a6-b333-42a2-8d11-8602c231606c/blob" alt="LPIC-1" title="LPIC-1" width="80"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/HitoshiMiyauchi-5648/9A98F3FB40D90EA8?sharingId=1F72AE1354DB82BB"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Fundamentals" title="Azure Fundamentals（AZ-900）" width="80"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/HitoshiMiyauchi-5648/EF57B0F25915A9A1?sharingId=1F72AE1354DB82BB"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure AI Fundamentals" title="Azure AI Fundamentals（AI-900）" width="80"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/HitoshiMiyauchi-5648/6CF4F2ED2B49FA92?sharingId=1F72AE1354DB82BB"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Data Fundamentals" title="Azure Data Fundamentals（DP-900）" width="80"></a>
+
 #### 主なリポジトリ
 | リポジトリ | 内容 |
 |---|---|
